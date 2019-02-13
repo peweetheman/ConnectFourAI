@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Patrick
+ *
+ */
+module ConnectFourAI {
+}
